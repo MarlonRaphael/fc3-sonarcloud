@@ -1,3 +1,5 @@
 .scannerwork
 coverage.out
 .scripts
+go1.21.1
+.idea
